@@ -2,7 +2,7 @@
 
 ## Description
 
-Note Taker can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file.
+Note Taker can be used to write and save notes. This application uses an Express.js back end and saves, retrieves, and deletes note data from a JSON file.
 
 The application has been deployed to Heroku and can be viewed [here.](https://salty-cliffs-07779.herokuapp.com/)
 
@@ -10,7 +10,7 @@ The application has been deployed to Heroku and can be viewed [here.](https://sa
 
 The following gif shows the application functionality:
 
-![A gif showing the note taker app that saves and reconstitutes notes](./Assets/Note%20Taker.gif)
+![A gif showing the note taker app that saves and reconstitutes notes](./Assets/Note%20taker.gif)
 
 ## User Story
 
